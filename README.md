@@ -1,3 +1,15 @@
+
+
+https://github.com/user-attachments/assets/a556fb16-4847-4a7d-833b-cb997d920b16
+
+
+
+https://github.com/user-attachments/assets/8ebabe62-978e-439c-9658-6e0887865939
+
+
+
+
+
 # ATxmega128A1 Measurement Platform Showcase
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-Bare--Metal-blue)
 ![Microcontroller](https://img.shields.io/badge/MCU-ATxmega128A1-green)
